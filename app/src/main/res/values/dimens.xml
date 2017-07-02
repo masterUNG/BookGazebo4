@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="h2">18sp</dimen>
+    <dimen name="h1">30sp</dimen>
+    <dimen name="my_padding">10dp</dimen>
+    <dimen name="icon1">25dp</dimen>
+</resources>

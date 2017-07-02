@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Book Gazebo</string>
+    <string name="login">Login</string>
+    <string name="user">User :</string>
+    <string name="password">Password :</string>
+    <string name="new_register">New Register</string>
+    <string name="name">Name</string>
+    <string name="surname">Surname</string>
+    <string name="id_card">id-Card</string>
+    <string name="address">Address</string>
+    <string name="phone">Phone</string>
+    <string name="save">save</string>
+    <string name="title_HaveSpace">Have Space</string>
+    <string name="message_HaveSpace">Please Fill All Every Blank</string>
+    <string name="title_FalseIDcard">ID=Card False</string>
+    <string name="messge_FalseIDcard">Plase Fill ID-Card 13 Digi</string>
+    <string name="title_UserFalse">User False</string>
+    <string name="message_UserFalse">No This User in my Database</string>
+    <string name="title_PassFalse">Password False</string>
+    <string name="message_PassFalse">Please Try Agains Password False</string>
+    <string name="mode_one">รับศพและจัดงาน</string>
+    <string name="mode_two">การณาปนกิจศพ</string>
+    <string name="mode_three">รายการทำบญ</string>
+    <string name="wait_user">User Wait</string>
+    <string name="wait_admin">Admin Wait</string>
+    <string name="sent">Sent Data</string>
+    <string name="detail_name">ชื่อ นามสกุล (ผู้ตาย)</string>
+    <string name="sala">ศาลา</string>
+    <string name="sala_detail">ชื่อศาลา</string>
+
+</resources>
